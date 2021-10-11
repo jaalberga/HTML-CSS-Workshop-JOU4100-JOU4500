@@ -72,10 +72,6 @@ body {
     padding: 10px 20px 10px 20px;
 }
 
-.main-section h1, .main-section h2 {
-    color: black;
-}
-
 .main-section figure, .main-section img {
     display: block;
     margin: auto;
